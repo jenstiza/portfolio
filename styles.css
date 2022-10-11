@@ -1,6 +1,11 @@
 body {
     margin: 0;
-    background: pink;
+    padding: 0;
+    background-image: url('https://t3.ftcdn.net/jpg/03/96/81/74/360_F_396817473_RCFW96ARsjl9nZlytThZWwkXH6tRGthX.jpg');
+    background-size: contain auto;
+    color: white;
     text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Georgia, Helvetica, sans-serif;
+    box-sizing: border-box;
 }
+
