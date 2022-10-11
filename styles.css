@@ -1,6 +1,7 @@
 body {
     margin: 0;
     padding: 0;
+    background-color: black;
     background-image: url('https://t3.ftcdn.net/jpg/03/96/81/74/360_F_396817473_RCFW96ARsjl9nZlytThZWwkXH6tRGthX.jpg');
     background-size: contain auto;
     color: white;
